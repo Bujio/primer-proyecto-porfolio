@@ -12,6 +12,10 @@ html {
     box-sizing: border-box; /* Hack para Box Model **/
     scroll-snap-type: y mandatory;
 }
+
+footer{
+    text-align: center;
+}
 /** Scroll Snap**/
 .servicios,
 .navegacion-principal,
